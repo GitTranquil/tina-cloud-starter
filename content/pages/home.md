@@ -37,10 +37,10 @@ blocks:
           color: green
           style: float
           name: palette
-        title: Configurable Theme
+        title: Inspiring Sisters
         text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
+          Being surrounded by such inspiring, intelligent, groundbreaking, and
+          strong women has shown me the type of person I wish to become someday.
     color: tint
     _template: features
 ---
