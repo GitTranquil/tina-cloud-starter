@@ -1,11 +1,11 @@
 {
   "header": {
     "icon": {
-      "color": "orange",
+      "color": "pink",
       "style": "float",
       "name": "trophy"
     },
-    "color": "default",
+    "color": "primary",
     "nav": [
       {
         "href": "",
@@ -17,7 +17,7 @@
       },
       {
         "href": "posts",
-        "label": "Blog"
+        "label": "Events"
       }
     ]
   },
