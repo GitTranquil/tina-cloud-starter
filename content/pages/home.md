@@ -20,13 +20,11 @@ blocks:
     _template: hero
   - items:
       - icon:
-          color: red
+          color: pink
           style: float
-          name: code
-        title: Amazing Feature
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+          name: pin
+        title: Devotion
+        text: We are devoted to values of Sigma Kappa in everything we do!!
       - icon:
           color: primary
           style: float
