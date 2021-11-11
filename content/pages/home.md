@@ -4,7 +4,7 @@ blocks:
     headline: SIGMA KAPPA
     text: Get ready for the time of your life!
     actions:
-      - label: Get Started
+      - label: Gallery
         type: button
         icon: true
         link: /posts
