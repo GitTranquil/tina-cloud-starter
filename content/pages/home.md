@@ -28,9 +28,11 @@ blocks:
       - icon:
           color: primary
           style: float
-          name: like
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+          name: shield
+        title: Compassionate Hearts
+        text: >-
+          Living with hart makes us more compassionate individuals, leading
+          purposeful lives rooted in a strong sense of character and values.
       - icon:
           color: green
           style: float
