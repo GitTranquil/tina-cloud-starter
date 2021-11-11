@@ -23,8 +23,11 @@ blocks:
           color: pink
           style: float
           name: pin
-        title: Devotion
-        text: We are devoted to values of Sigma Kappa in everything we do!!
+        title: Core Values
+        text: >-
+          We are devoted to values of Sigma Kappa in everything we do!! Our
+          sister share core values in promoting lifelong learning,
+          inclusiveness, and leadership through service in our communites.
       - icon:
           color: primary
           style: float
