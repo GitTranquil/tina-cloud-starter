@@ -1,7 +1,7 @@
 ---
 blocks:
-  - tagline: ''
-    headline: ALPHA PHI
+  - tagline: Welcome to the Alpha Beta Chapter at University of California!
+    headline: SIGMA KAPPA
     text: Get ready for the time of your life!
     actions:
       - label: Get Started
@@ -16,7 +16,7 @@ blocks:
       src: >-
         https://res.cloudinary.com/forestry-demo/image/upload/v1628102029/tina-cloud-starter/tina-illustration.WebP
       alt: Tina
-    color: default
+    color: primary
     _template: hero
   - items:
       - icon:
